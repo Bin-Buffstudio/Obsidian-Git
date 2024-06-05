@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "85744f79654a3573",
+    "type": "split",
+    "children": [
+      {
+        "id": "301fae6c057d0a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce6a316c107901a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df776d2926f7d049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f547ce17b99422aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6af6d84d758716d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a409f7f5ae783783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1dd48b34e12a9b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Result.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ca034d8b53fe832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EventUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10d465b7c758d2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인게임 세부 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f17bb17f8f2ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인게임 세부 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6538559e312bf81e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인게임 세부 정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "830a18a43d6c06a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cae8fc9b7b2a308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7af77e71e1763472",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "839291c84be6808e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "065b4a0deba1c045",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17bf0e90ce5869d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fb632ed20604431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50ed365122f7160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "인게임 세부 정보.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e3d2949908916eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "인게임 세부 정보.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02558405214c01f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce7598c4f86b2b2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "인게임 세부 정보.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "6538559e312bf81e",
+  "lastOpenFiles": [
+    "Car.md",
+    "인게임 세부 정보.md",
+    "Game Result.md",
+    "Game ResultUI.md",
+    "EventUI.md",
+    "HUD.md",
+    "Notice.md",
+    "Shop.md",
+    "NoticeUI.md",
+    "Event.md",
+    "^.md",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일 3.canvas",
+    "2024-05-27.md",
+    "EventData.md",
+    "().md",
+    "작업 목록.md",
+    "무제 파일.canvas",
+    "Notion/Train Craft.md",
+    "Notion",
+    "무제 파일 1.md"
+  ]
+}
