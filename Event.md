@@ -36,7 +36,7 @@
 	+ UI Test Scene > Dummy_EventObj의 Default Notice Identifier를 변경하고 중앙에 Button 클릭
 	+ 이벤트 종료후에도 해당 행동 반복 가능
 ## 추후 수정 사항
-* *EventUI.cs*
+* **EventUI.cs**
 	+ 이벤트 노드의 Identifier 자체를 변경? (현재는 m_EventDataProvider를 바꿈)
 	+ EventImage 이미지 변경
 	+ 인덱스 1번일 때 무조건 닫기 변경 (무시 선택지 다음에도 이벤트가 있는 경우)

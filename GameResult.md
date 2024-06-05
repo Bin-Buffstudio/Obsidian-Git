@@ -31,7 +31,8 @@
 * Scene
 	+ Assets > Scenes > Develop Scene > UI Test > Game Result Canvas
 ## 추후 수정 사항
-* 게임 결과 데이터 가져와서 값 선언 (GameResultItem.value)
-* CloseCallback 추가 필요
-* 게임 결과 데이터를 어떻게 정하느냐에 따라서 GameResultItem 리스트화
-## 최종 수정 일자 24.06.05 16:10
+* **GameResultUI.cs**
+	+ 게임 결과 데이터 가져와서 값 선언 (GameResultItem.value)
+	+ CloseCallback 추가 필요
+	+ 게임 결과 데이터를 어떻게 정하느냐에 따라서 GameResultItem 리스트화
+## 최종 수정 일자 24.06.05 16:14
