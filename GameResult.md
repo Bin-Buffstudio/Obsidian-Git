@@ -1,5 +1,5 @@
 ## 구현 설명
-[[Game ResultUI]]
+[[GameResultUI]]
 ## 게임 결과창 인스펙터
 https://docs.google.com/spreadsheets/d/1ggNM4tM3_zZigdZPan29CJD9NnmLdk3iAKksM9TLXM4/edit#gid=2070682695 - Index 부분 참고
 Game Result Name Field

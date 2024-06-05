@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Result.md",
+                "file": "GameResult.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EventUI.md",
+                "file": "implement/EventUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,14 +97,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인게임 세부 정보.md",
+                "file": "인게임세부정보.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4621359e1944f7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f3d961196b427c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인게임세부정보.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -193,28 +217,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "10d465b7c758d2be",
+  "active": "0f3d961196b427c9",
   "lastOpenFiles": [
+    "implement/Car.md",
+    "인게임세부정보.md",
+    "Event.md",
+    "README.md",
+    "Notice.md",
+    "GameResult.md",
+    "implement/GameResultUI.md",
+    "Shop.md",
+    "implement/NoticeUI.md",
+    "implement/EventUI.md",
+    "implement/HUD.md",
+    "HUD.md",
+    "implement",
+    "새 폴더",
+    "Car.md",
+    "image/HUDObjectImage.png",
+    "image/HUDImage.png",
+    "HUDImage.png",
+    "Pasted image 20240605155111.png",
     "image/DetailElectricContent.png",
     "image/Pasted image 20240605154303.png",
     "Pasted image 20240605154303.png",
     "image/DetailLayerImage.png",
     "image",
-    "새 폴더",
     "DetailLayerImage.png",
-    "Event.md",
-    "인게임 세부 정보.md",
-    "Car.md",
     "Pasted image 20240605152138.png",
-    "Pasted image 20240605151905.png",
-    "README.md",
-    "Game Result.md",
-    "Game ResultUI.md",
-    "EventUI.md",
-    "HUD.md",
-    "Notice.md",
-    "Shop.md",
-    "NoticeUI.md",
     "^.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
