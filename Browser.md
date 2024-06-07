@@ -26,6 +26,10 @@
 ## 추후 수정 사항
 * **BrowserUI.cs**
 	+ 증강체 데이터 가져와서 증강체 아이콘 생성 (identifier, 증강체 갯수)
-	+ CloseCallback 추가 필요
-	+ 게임 결과 데이터를 어떻게 정하느냐에 따라서 GameResultItem 리스트화
-## 최종 수정 일자 24.06.05 16:14
+	+ 증강체 아이콘 선택 이펙트 추가
+	+ 증강체 아이콘 이미지 변경
+	+ 스텟 데이터 가져와서 텍스트 변경 (augmentInformationStat)
+	+ 열차 정보 데이터 가져오기 (detailItem.DetailValue)
+	+ 차량 정보 데이터 가져오기 (identifier, stat, model, 차량 갯수)
+	+ 맵 구현하기
+## 최종 수정 일자 24.06.07 12:41
