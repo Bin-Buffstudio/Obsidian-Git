@@ -1,5 +1,5 @@
 ## 구현 설명
-* [BrowserUI.cs부분](./implement/BrowserUI.cs)
+* [BrowserUI.cs부분](./implement/BrowserUI.md)
 ## 현재 구현된 것을 보는법
 * Assets > Scences > Develop Scence > UI Test
 	+ 하이라이키 창 Browser Canvas 오브젝트 활성화, 나머지 비활성화

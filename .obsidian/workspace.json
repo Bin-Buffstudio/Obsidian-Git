@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "implement/BrowserUI.md",
+                "file": "Browser.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "implement/BrowserUI.md",
+                "file": "Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "implement/BrowserUI.md",
+                "file": "Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "implement/BrowserUI.md"
+                "file": "Browser.md"
               }
             }
           }
@@ -282,8 +282,8 @@
   },
   "active": "0aed5929899d1368",
   "lastOpenFiles": [
-    "implement/EventUI.md",
     "implement/BrowserUI.md",
+    "implement/EventUI.md",
     "implement/Car.md",
     "Browser.md",
     "image/BrowserFieldImage.png",
