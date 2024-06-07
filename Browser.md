@@ -16,7 +16,7 @@
 * **Detail Item Identifiers**
 	+ 세부 정보에 Text만 받아오기 위함, Identifier만 바꿔주기
 		+ Category - System_Detail_Information_Toggle
-		+ Object Type - System_Detail_Information_Toggle 다음 부분 *(스프레드 시트 Index 참조)*
+		+ Object Type - *(스프레드 시트 Index 참조)*
 		+ Sub Type - *(스프레드 시트 Index 참조)*
 * 딱히 추가해야 할 것은 없으나 Index부분이 바뀌면 Identifier 수정 필요
 	+ ![이미지 참조](./image/BrowserFieldImage.png)

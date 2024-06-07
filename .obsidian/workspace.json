@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Browser.md",
+                "file": "GameResult.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Browser.md",
+                "file": "GameResult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Browser.md",
+                "file": "GameResult.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Browser.md"
+                "file": "GameResult.md"
               }
             }
           }
@@ -282,12 +282,13 @@
   },
   "active": "0aed5929899d1368",
   "lastOpenFiles": [
+    "Notice.md",
+    "implement/NoticeUI.md",
+    "Browser.md",
     "implement/BrowserUI.md",
     "implement/EventUI.md",
     "implement/Car.md",
-    "Browser.md",
     "image/BrowserFieldImage.png",
-    "Notice.md",
     "GameResult.md",
     "Event.md",
     "implement/GameResultUI.md",
@@ -295,7 +296,6 @@
     "인게임세부정보.md",
     "README.md",
     "implement/HUD.md",
-    "implement/NoticeUI.md",
     "Shop.md",
     "image/DummyNoticeObjectImage.png",
     "image/Pasted image 20240605182726.png",
