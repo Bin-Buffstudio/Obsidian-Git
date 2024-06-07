@@ -4,6 +4,8 @@
 * Assets > Scences > Develop Scence > UI Test
 	+ 하이라이키 창 Game Result Canvas 오브젝트 활성화, 나머지 비활성화
 	+ ![이미지 참조](./image/GameResultCanvasImage.png)
+## 참고 기획 문서
+* https://docs.google.com/presentation/d/15FUgGttBdiSQS256ion7H-yEUF1DhyVLN8_fhP9zZG8/edit#slide=id.g2dba406cdfe_0_711
 ## 게임 결과창 인스펙터
 * *https://docs.google.com/spreadsheets/d/1ggNM4tM3_zZigdZPan29CJD9NnmLdk3iAKksM9TLXM4/edit#gid=2070682695 - Index 부분 참고*
 * **Game Result Name Field**

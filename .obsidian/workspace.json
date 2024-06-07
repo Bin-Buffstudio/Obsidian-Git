@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "implement/NoticeUI.md",
+                "file": "Shop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a384c5a31f8dcf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameResult.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "implement/NoticeUI.md",
+                "file": "GameResult.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "implement/NoticeUI.md",
+                "file": "GameResult.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "implement/NoticeUI.md"
+                "file": "GameResult.md"
               }
             }
           }
@@ -256,31 +268,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f3d961196b427c9",
+  "active": "a384c5a31f8dcf4e",
   "lastOpenFiles": [
     "Notice.md",
     "GameResult.md",
-    "인게임세부정보.md",
     "Event.md",
+    "Browser.md",
+    "인게임세부정보.md",
+    "Shop.md",
+    "README.md",
     "implement/NoticeUI.md",
+    "implement/Car.md",
+    "implement/EventUI.md",
     "implement/HUD.md",
+    "implement/GameResultUI.md",
     "image/DummyNoticeObjectImage.png",
     "image/Pasted image 20240605182726.png",
     "Pasted image 20240605182726.png",
     "image/NoticeCanvasImage.png",
     "image/Pasted image 20240605182421.png",
     "Pasted image 20240605182421.png",
-    "implement/GameResultUI.md",
-    "implement/EventUI.md",
-    "implement/Car.md",
     "2024-06-05.md",
     "image/GameResultFieldImage.png",
     "image/Pasted image 20240605180211.png",
     "Pasted image 20240605180211.png",
     "image/DetailElectricContentImage.png",
     "().md",
-    "Shop.md",
-    "README.md",
     "HUD.md",
     "implement",
     "새 폴더",

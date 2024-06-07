@@ -4,7 +4,7 @@
 * interface INoticeDataProvider
 	+ 알림/경고/주의 메시지를 생성하는 오브젝트는 해당 인터페이스를 상속 받으며 아래의 값 필요
 		+ NoticeIdentifier defaultNoticeIdentifier
-		+  NoticeIdentifier currentNoticeIdentifier
+		+ NoticeIdentifier currentNoticeIdentifier
 	+ public string GetCurrentNoticeIdentifier()
 		+ 현재의 Identifier값을 받아온다.
 * OnNoticeWarningReceived

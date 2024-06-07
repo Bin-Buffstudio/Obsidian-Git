@@ -8,6 +8,9 @@
 	+ Default Event Identifier를 변경하고 중앙에 Button 클릭
 	+ ![이미지 참조](./image/DummyEventObjectImage.png)
 	+ 게임 실행 중에도 변경 후 중앙에 Button을 누르면 해당 이벤트로 세팅
+## 참고 기획 문서
+* https://docs.google.com/presentation/d/15FUgGttBdiSQS256ion7H-yEUF1DhyVLN8_fhP9zZG8/edit#slide=id.g2dba406cdfe_0_426
+* https://docs.google.com/document/d/1cwjw8W0kiE2gzVPLW6CHT8oEXg-p2HxfanoZKcRb9HI/edit#heading=h.2iw6gdm0yn0v
 ## 상호작용 오브젝트 인스펙터 (이벤트 노드)
 * *https://docs.google.com/spreadsheets/d/1ggNM4tM3_zZigdZPan29CJD9NnmLdk3iAKksM9TLXM4/edit#gid=76848005 - Index 부분 참고*
 * **Default Event Identifier** : 이벤트 Index 부분 나눠서 입력
