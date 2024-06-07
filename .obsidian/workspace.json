@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameResult.md",
+                "file": "인게임세부정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameResult.md",
+                "file": "인게임세부정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameResult.md",
+                "file": "인게임세부정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameResult.md"
+                "file": "인게임세부정보.md"
               }
             }
           }
@@ -282,6 +282,7 @@
   },
   "active": "0aed5929899d1368",
   "lastOpenFiles": [
+    "GameResult.md",
     "Notice.md",
     "implement/NoticeUI.md",
     "Browser.md",
@@ -289,7 +290,6 @@
     "implement/EventUI.md",
     "implement/Car.md",
     "image/BrowserFieldImage.png",
-    "GameResult.md",
     "Event.md",
     "implement/GameResultUI.md",
     "image/BrowserCanvasImage.png",
