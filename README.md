@@ -5,3 +5,4 @@
 # [알림(경고/주의 포함)메시지](./Notice.md)
 # [게임 결과 창](./GameResult.md)
 # [상점](./Shop.md)
+# [브라우저](./Browser.md)

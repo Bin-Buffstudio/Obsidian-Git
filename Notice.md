@@ -20,7 +20,8 @@
 		+ Dummy_NoticeObj의 Npc Name을 입력해야함
 		+ Notice 버튼 클릭
 ## 참고 기획 문서
-* 
+* https://docs.google.com/presentation/d/15FUgGttBdiSQS256ion7H-yEUF1DhyVLN8_fhP9zZG8/edit#slide=id.g2dba406cdfe_0_581
+  
 ## 메시지 오브젝트 인스펙터
 * *https://docs.google.com/spreadsheets/d/1ggNM4tM3_zZigdZPan29CJD9NnmLdk3iAKksM9TLXM4/edit#gid=2070682695 - Index 부분 참조*
 * **Default Notice Identifier** : 알림/경고/주의 메시지 Index 부분 나눠서 입력

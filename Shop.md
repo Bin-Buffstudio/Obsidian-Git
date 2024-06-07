@@ -8,6 +8,8 @@
 		+ 선택 이미지, 이름, 설명 갱신, buyButton에 AddListener BuyItem등록
 	+ BuyItem
 		+ 미구현 상태 - 현재는 아이템 이름 출력
+## 참고 기획 문서
+* https://docs.google.com/document/d/1cwjw8W0kiE2gzVPLW6CHT8oEXg-p2HxfanoZKcRb9HI/edit#heading=h.8t950ld2wyku
 ## 인스펙터
 * 세부 사항 창
 	+ buyButton, cancelButton, selectItem, selectItemImage

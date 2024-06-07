@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameResult.md",
+                "file": "Browser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aed5929899d1368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Browser.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameResult.md",
+                "file": "Browser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameResult.md",
+                "file": "Browser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameResult.md"
+                "file": "Browser.md"
               }
             }
           }
@@ -268,20 +280,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a384c5a31f8dcf4e",
+  "active": "0aed5929899d1368",
   "lastOpenFiles": [
+    "image/BrowserFieldImage.png",
+    "Browser.md",
     "Notice.md",
     "GameResult.md",
     "Event.md",
-    "Browser.md",
-    "인게임세부정보.md",
-    "Shop.md",
-    "README.md",
-    "implement/NoticeUI.md",
-    "implement/Car.md",
-    "implement/EventUI.md",
-    "implement/HUD.md",
     "implement/GameResultUI.md",
+    "image/BrowserCanvasImage.png",
+    "인게임세부정보.md",
+    "implement/BrowserUI.md",
+    "README.md",
+    "implement/HUD.md",
+    "implement/EventUI.md",
+    "implement/Car.md",
+    "implement/NoticeUI.md",
+    "Shop.md",
     "image/DummyNoticeObjectImage.png",
     "image/Pasted image 20240605182726.png",
     "Pasted image 20240605182726.png",
@@ -291,8 +306,6 @@
     "2024-06-05.md",
     "image/GameResultFieldImage.png",
     "image/Pasted image 20240605180211.png",
-    "Pasted image 20240605180211.png",
-    "image/DetailElectricContentImage.png",
     "().md",
     "HUD.md",
     "implement",
