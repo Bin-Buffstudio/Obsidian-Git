@@ -62,4 +62,4 @@
 	+ ContextMenuData TextIdentfieir -> UnitIdentifier로 변경
 	+ 
 	
-## 최종 수정 일자 24.06.12 12:41
+## 최종 수정 일자 24.06.12 16:51
