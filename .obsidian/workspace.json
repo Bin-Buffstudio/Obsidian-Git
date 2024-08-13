@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "a6e44dd572ed4b0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "0726639324a4821c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우선 순위.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6af6d84d758716d1",
             "type": "leaf",
             "state": {
@@ -116,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "implement/EventUI.md",
+                "file": "우선 순위.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "implement/EventUI.md",
+                "file": "우선 순위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "implement/EventUI.md"
+                "file": "우선 순위.md"
               }
             }
           }
@@ -244,8 +266,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f547ce17b99422aa",
+  "active": "0726639324a4821c",
   "lastOpenFiles": [
+    "우선 순위.md",
     "Event.md",
     "ContextMenu.md",
     "implement/ContextMenuUI.md",
