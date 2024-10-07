@@ -42,24 +42,24 @@
             }
           },
           {
-            "id": "0726639324a4821c",
+            "id": "e04b8bcd7117d709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우선 순위.md",
+                "file": "Browser.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e04b8bcd7117d709",
+            "id": "799c68c95dd39845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "우선 순위.md",
+                "file": "인게임세부정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "우선 순위.md",
+                "file": "인게임세부정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "우선 순위.md",
+                "file": "인게임세부정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "우선 순위.md"
+                "file": "인게임세부정보.md"
               }
             }
           }
@@ -278,15 +278,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e04b8bcd7117d709",
+  "active": "799c68c95dd39845",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "인게임세부정보.md",
+    "Browser.md",
     "우선 순위.md",
     "Event.md",
     "ContextMenu.md",
     "implement/ContextMenuUI.md",
     "implement/NoticeUI.md",
     "implement/HUD.md",
-    "Browser.md",
     "implement/EventUI.md",
     "implement/GameResultUI.md",
     "GameResult.md",
@@ -297,7 +299,6 @@
     "image/ContextMenuFieldImage.png",
     "image/Pasted image 20240612160806.png",
     "Pasted image 20240612160806.png",
-    "인게임세부정보.md",
     "image/HUDCanvasImage.png",
     "image/ContextMenuCanvasImage.png",
     "image/Pasted image 20240612160337.png",
@@ -322,7 +323,6 @@
     "작업 목록.md",
     "무제 파일.canvas",
     "Notion/Train Craft.md",
-    "Notion",
-    "무제 파일 1.md"
+    "Notion"
   ]
 }
