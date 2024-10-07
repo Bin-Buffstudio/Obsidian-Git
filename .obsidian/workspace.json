@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "d6b1a278072baa3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "유닛 코드 설계 및 구현도.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6af6d84d758716d1",
             "type": "leaf",
             "state": {
@@ -150,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인게임세부정보.md",
+                "file": "유닛 코드 설계 및 구현도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인게임세부정보.md",
+                "file": "유닛 코드 설계 및 구현도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인게임세부정보.md"
+                "file": "유닛 코드 설계 및 구현도.md"
               }
             }
           }
@@ -278,10 +290,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "799c68c95dd39845",
+  "active": "d6b1a278072baa3d",
   "lastOpenFiles": [
-    "무제 파일.md",
     "인게임세부정보.md",
+    "유닛 코드 설계 및 구현도.md",
     "Browser.md",
     "우선 순위.md",
     "Event.md",
