@@ -72,7 +72,7 @@
               "type": "markdown",
               "state": {
                 "file": "유닛 코드 설계 및 구현도.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -292,16 +292,19 @@
   },
   "active": "d6b1a278072baa3d",
   "lastOpenFiles": [
+    "Shop.md",
     "인게임세부정보.md",
     "유닛 코드 설계 및 구현도.md",
     "Browser.md",
-    "우선 순위.md",
+    "README.md",
     "Event.md",
     "ContextMenu.md",
+    "implement/EventUI.md",
     "implement/ContextMenuUI.md",
+    "implement/BrowserUI.md",
+    "우선 순위.md",
     "implement/NoticeUI.md",
     "implement/HUD.md",
-    "implement/EventUI.md",
     "implement/GameResultUI.md",
     "GameResult.md",
     "Notice.md",
@@ -315,9 +318,6 @@
     "image/ContextMenuCanvasImage.png",
     "image/Pasted image 20240612160337.png",
     "Pasted image 20240612160337.png",
-    "README.md",
-    "Shop.md",
-    "implement/BrowserUI.md",
     "implement/Car.md",
     "2024-06-05.md",
     "().md",
